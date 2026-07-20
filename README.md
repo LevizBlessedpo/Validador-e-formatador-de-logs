@@ -22,4 +22,3 @@ Para conseguir transformar o texto bruto na lista final, utilizei o encadeamento
 1. **Encadeamento de Métodos**: Aprendi que posso conectar várias funções (`.trim().split().map()`) em uma única constante, desde que a ordem faça sentido lógico (o método seguinte precisa aceitar o tipo de dado que o método anterior retornou).
 2. **Cuidado com a Sintaxe no Mobile**: Erros como `Unexpected token` ou `ReferenceError` geralmente acontecem por quebras de linha automáticas do editor que quebram o escopo do código ou por pontos e vírgulas (`;`) colocados antes do final do encadeamento.
 3. **Diferença do `.length`**: Entendi que o `.length` em Strings conta letras, mas em Arrays conta a quantidade de itens.
-4. 
